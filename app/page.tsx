@@ -1,6 +1,5 @@
 import SoopChat from "@/component/SoopChat";
 import TwitchLive from "@/component/TwitchLive";
-import Image from "next/image";
 
 export default function Home() {
   return (
